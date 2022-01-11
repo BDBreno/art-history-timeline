@@ -1,0 +1,113 @@
+
+body{
+  background-image: linear-gradient(to right, #99ccff , #e6b3ff, #ecc6d9, #e6ffff,  #f2f2f2);
+  margin: 10%;
+  text-align: justify;
+/*  text-justify: inter-word;*/
+}
+h1{
+  text-align: center;
+}
+a {
+  text-decoration: none;
+}
+section{
+  background-color: #ff0000;
+  text-align: center;
+  color:  #e6ffff;
+  border: 3px solid green;
+}
+nav {
+  	font-family: 'Times New Roman', serif;
+    font-size: 1.25em;
+	font-weight: bold;
+	text-align: center;
+	margin-top: 1.5em;
+}
+ul {  
+  list-style-type: none;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 0;
+  overflow: hidden;
+  text-align: center;
+  
+}
+li a {
+  display: block;
+  padding: 8px;
+  background-color: #dddddd;
+}
+nav li {
+  display: inline-block;
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: auto;
+}
+p {
+  font-size: 20px;
+  padding: 5px;
+/*  margin-right: 20px;*/
+}
+
+div {
+
+}
+
+figure {
+  border: 1px #cccccc solid;
+  padding: 4px;
+  margin: auto;
+  float: right;
+}
+
+figcaption {
+  background-color: black;
+  color: white;
+  font-style: italic;
+  padding: 2px;
+  text-align: center;
+}
+
+.mona {
+height: 30%;
+width:  40%;
+}
+.diy {
+  border-radius: 15px;
+}
+.figclass {
+background-image: linear-gradient( #f2f2f2,  #999999);
+height: 30%;
+width:  40%;
+border-radius: 15px;
+}
+
+/*add mobile media query view size*/
+@media only screen and (max-width: 480px) {
+body{
+  background-image: linear-gradient(70deg, red, yellow);
+}
+
+/*take out the underline for all hyperlinks, make text blue*/
+a:link {
+	color: #80e5ff;
+	text-decoration: none;
+}
+/*take out the underline for all listed hyperlinks, make text white*/
+nav a:link {
+	color: #aa80ff;
+	text-decoration: none;
+}
+
+/*change hyper text color when hovering mouse*/
+nav a:hover {
+	color: #ffc299;
+	text-decoration: none;
+}
+
+}
