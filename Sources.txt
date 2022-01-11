@@ -1,0 +1,361 @@
+https://artincontext.org/art-periods/
+
+https://artincontext.org/artworks/
+
+http://www.bristol.ac.uk/arthistory/study/undergraduate/why-study-art/#:~:text=Studying%20the%20art%20of%20the,of%20humanity's%20most%20ubiquitous%20activities.
+
+https://lobopopart.com.br/en/the-history-of-painting/
+
+https://www.thoughtco.com/about-us-4779650
+
+for going to the bottom of the page : https://stackoverflow.com/questions/24836798/anchor-hash-to-the-bottom-of-the-page/24836869
+to appear at the top of the page : <a href="#">Go to top</a>
+
+https://www.invaluable.com/blog/art-history-timeline/
+
+https://arthistoryproject.com/timeline/prehistory/
+
+http://www.visual-arts-cork.com/history-of-art-timeline.html
+
+https://www.invaluable.com/blog/art-history-timeline/
+
+https://courses.lumenlearning.com/boundless-arthistory/chapter/realism/
+
+https://www.invaluable.com/blog/art-nouveau-artists/
+
+https://mymodernmet.com/must-know-paintings/
+
+https://blog.artsper.com/en/get-inspired/25-works-of-contemporary-art-you-need-to-see/
+
+https://learnodo-newtonic.com/famous-modern-arts
+
+https://www.canva.com/learn/minimalist-poster/
+
+https://www.metmuseum.org/blogs/teen-blog/renaissance-portrait/blog/studying-art-from-the-past
+
+https://www.quora.com/Why-is-art-history-important
+
+https://www.timeout.com/newyork/art/most-famous-artists-of-all-time
+
+https://www.artworkarchive.com/blog/what-is-the-artist-s-role-in-society
+
+https://www.timeout.com/newyork/art/most-famous-artists-of-all-time
+
+https://totallyhistory.com/art-history/
+
+http://www.visual-arts-cork.com/ancient-art.htm
+
+http://www.visual-arts-cork.com/prehistoric-art-timeline.htm
+
+https://courses.lumenlearning.com/boundless-arthistory/chapter/the-stone-age/
+
+http://www.visual-arts-cork.com/ancient-art.htm
+
+https://www.theartstory.org/movement/byzantine-art/history-and-concepts/
+
+https://en.wikipedia.org/wiki/Medieval_art#Early_Christian_and_Late_Antique_art
+
+https://www.history.com/topics/renaissance/renaissance-art#section_2
+
+https://www.history.com/topics/renaissance/renaissance-art
+
+http://www.visual-arts-cork.com/history-of-art/german-expressionism.htm
+
+http://www.visual-arts-cork.com/history-of-art/expressionist-movement.htm
+
+http://www.visual-arts-cork.com/history-of-art/expressionism.htm
+
+http://www.visual-arts-cork.com/history-of-art/expressionist-painting-origins.htm
+
+https://www.metmuseum.org/toah/hd/cube/hd_cube.htm
+
+https://www.history.com/topics/art-history/history-of-cubism
+
+https://www.metmuseum.org/toah/hd/cube/hd_cube.htm
+
+<!--<!DOCTYPE html>
+<html>
+
+<head>
+<title>Page Title</title>
+<style>
+
+body{
+  background-image: linear-gradient(to right, #99ccff , #e6b3ff, #ecc6d9, #e6ffff,  #f2f2f2);
+  margin: 10%;
+}
+h1{
+  text-align: center;
+
+}
+section{
+  background-color: #ff0000;
+  text-align: center;
+  color:  #e6ffff;
+  border: 3px solid green;
+}
+nav {
+  	font-family: 'Times New Roman', serif;
+    font-size: 1.25em;
+	font-weight: bold;
+	text-align: center;
+	margin-top: 1.5em;
+}
+ul {  
+  list-style-type: none;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 0;
+  overflow: hidden;
+  text-align: center;
+  
+}
+li a {
+  display: block;
+  padding: 8px;
+  background-color: #dddddd;
+}
+li {
+  float: left;
+  display: inline-block;
+}
+
+/*add mobile media query view size*/
+@media only screen and (max-width: 480px) {
+body{
+  background-image: linear-gradient(70deg, red, yellow);
+}
+
+/*take out the underline for all hyperlinks, make text blue*/
+a:link {
+	color: ;
+	text-decoration: none;
+}
+/*take out the underline for all listed hyperlinks, make text white*/
+nav a:link {
+	color: #aa80ff;
+	text-decoration: none;
+}
+nav a: vistied {
+color: #000000;
+}
+/*change hyper text color when hovering mouse*/
+nav a:hover {
+	color: #ffc299;
+	text-decoration: none;
+}
+
+}
+</style>
+</head>
+
+<body>
+<!--these are the basic HTML elements above--><!--of coruse the elements below are cool but above is requried-->
+
+<!--these are semantic elements-->
+<header>
+
+</header>
+
+<main>
+<p>image of art HERE</p>
+<!--pic of art saying art history-->
+
+<nav>
+<ul>
+  <li><a href="ArtHistory.html">Home</a></li>
+  <li><a href="History.html">History</a></li>
+  <li><a href="Artworks.html">Artworks</a></li>
+  <li><a href="DIY.html">Easy DIY</a></li>
+  <li><a href="About.html">About Us</a></li>
+  <li><a href="Timeline.html">Timeline</a></li>
+
+</ul>
+</nav>
+
+<h1>Art History Timeline</h1>
+<br>
+
+<h3>Prehistoric Art (2.5 Million - 500 BCE)
+</h3>
+<article>
+<section>
+<p>in 40,000 BCE. Homosapiens have supplanted the neanderthals, and over the millennia that follow this new breed of human develops spoken language and the first expressions of creativity.</p>
+<p> We call these first 35,000 years of human history ‘prehistory’ because it is the time before the invention of written language. A time when oral traditions were passed on from generation by speaking and hearing. The stories and cultures of these early people are long gone, and without written records, the only information we have about their lives is what we can glean from the few surviving artifacts they left behind.</p>
+</section>
+</article>
+
+<h3>Ancient Art (4,000 B.C.–A.D. 400)
+</h3>
+<article>
+<section>
+<p>Ancient art refers to the many types of art produced by the advanced cultures of ancient societies with some form of writing, such as those of ancient China, India, Mesopotamia, Persia, Palestine, Egypt, Greece, and Rome.
+</p>
+<p>Famous ancient artists are Narmer Palette, Polykleitos, Gu Kaizhi, and king Nabonidus</p>
+<p></p></section>
+</article>
+
+<h3>Medieval Art (500–1400)
+</h3>
+<article>
+<section>
+<p>A time of artwork that was characterized by iconographic painting illustrations of Biblical scenes. The work emerged from the early Christian church influence as well as the Roman Empire heritage. During this time art made from Eastern-European and Germanic peoples emerged.</p>
+<p>In an attempt to specify the types of medieval arts, historians tried to classify them according to major periods of the middle ages as well as style. The generally accepted classifications were early Christian art, Migration Period art, Byzantine art, Insular art, Pre-Romanesque, Romanesque and Gothic art.
+</p>
+<p>Famous medival artists are Nicola Pisano, Arnolfo di Cambio, Simone Martini, and </p>
+</section>
+</article>
+
+<h3>Renaissance Art (1400–1600)
+</h3>
+<article>
+<section>
+<p>Renaissance art is marked by a gradual shift from the abstract forms of the medieval period to the representational forms of the 15th century. They are not flat but suggest mass, and they often occupy a realistic landscape, rather than stand against a gold background as some figures do in the art of the Middle Ages.
+</p>
+<p>Both classical and Renaissance art focused on human beauty and nature. People, even when in religious works, were depicted living life and showing emotion. Perspective and light and shadow techniques improved and paintings looked more three-dimensional and realistic.</p>
+<p>Famous renaissance artist are Leonardo da Vinci, Michelangelo, Raphael, Donatello, and Masaccio. </p>
+</section>
+</article>
+
+<h3>Baroque (1600–1750)
+</h3>
+<article>
+<section>
+<p>
+The Baroque is a period of artistic style that started around 1600 in Rome , Italy, and spread throughout the majority of Europe during the 17th and 18th centuries. In informal usage, the word baroque describes something that is elaborate and highly detailed.
+</p>
+<p>
+Some of the qualities most frequently associated with the Baroque are grandeur, sensuous richness, drama, vitality, movement, tension, emotional exuberance, and a tendency to blur distinctions between the various arts.
+</p>
+<p>
+Famous baroque artist are Caravaggio, Sir Peter Paul Rubens, Manoel da Costa Ataíde, Frans Hals, and Federico Barocci.
+</p>
+</section>
+</article>
+
+<h3>Neoclassicism (1750–1850)
+</h3>
+<article>
+<section>
+<p>The primary Neoclassicist belief was that art should express the ideal virtues in life and could improve the viewer by imparting a moralizing message.
+</p>
+<p>
+In Europe and America, the Enlightenment coincided with the first half of the Neoclassical period.Neoclassicism was an artistic manifestation of aesthetic and cultural ideals, while the Enlightenment was a wider philosophical and political movement focusing on the human condition.
+</p>
+<p>Greek and Roman history and mythology were sources of inspiration for Neoclassical artists across Europe. From architecture and decor to folklore, Neoclassical art reflected the heroism and fantasy of mythical tales.
+</p>
+<p>
+Famous neoclassical artists are Jacques-Louis David, Angelica Kauffman, Jean-Baptiste Debret, Antonio Canova, and Andrea Appiani.
+</p>
+</section>
+</article>
+
+<h3>Realism (1848–1900)
+</h3>
+<article>
+<section>
+<p>Realism  was an artistic movement that began in France in the 1850s, following the 1848 Revolution. Realists sought to portray “real” contemporary people and situations with truth and accuracy, including all the unpleasant or sordid aspects of life. Realist works depicted people of all classes in ordinary life situations, which often reflected the changes brought on by the Industrial and Commercial Revolutions.</p>
+<p>Realism arose in opposition to Romanticism, which had dominated French literature and art since the late 18th century. Gustave Courbet is known as the main proponent of Realism and his paintings challenged convention by depicting unidealized peasants and workers, often on a grand scale traditionally reserved for paintings of religious or historical subjects.
+</p>
+<p>Important figures in the Realist art movement were Gustave Courbet, Honore Daumier, and Jean-Francois Millet.</p>
+</section>
+</article>
+
+<h3>Nouveau (1890–1910)
+</h3>
+<article>
+<section>
+<p> Art Nouveau is characterized by its use of a long, sinuous, organic line and was employed most often in architecture, interior design, jewelry and glass design, posters, and illustration.</p>
+<p>Nouveau was aimed at modernizing design, seeking to escape the art of eclectic and other historical styles that had previously been popular. Artists drew inspiration from both organic and geometric forms, evolving elegant designs that united flowing, natural forms resembling the stems and blossoms of plants.</p>
+<p>Deeply influenced by the socially aware teachings of William Morris and the Arts and Crafts movement, Art Nouveau designers endeavored to achieve the synthesis of art and craft, and further, the creation of the spiritually uplifting Gesamtkunstwerk (“total work of art”) encompassing a variety of media.</p>
+<p>Nouveau artists drew inspiration from natural elements, such as flowers or insects. Important figures in Nouveau art is William Morris, Aubrey Beardsley, Louis Majorelle, Émile Gallé, and Victor Horta. All these artists use different media and forms of art from glass to Architecture and Furniture the main focus of this art is organic forms and using the total work of art</p>
+</section>
+</article>
+
+<h3>Surrealism (1916–1950)
+</h3>
+<article>
+<section>
+<p>Surrealism was a cultural movement which developed in Europe in the aftermath of World War I in which artists depicted unnerving, illogical scenes and developed techniques to allow the unconscious mind to express itself.
+This drew influnce from the Dada movement, which dipicted the horrors of war and  rejected the logic, reason, and aestheticism of modern capitalist society.
+</p>
+<p>World war 2 greatly influnced Surrealism. Some american artists actually served government and military agencies by creating art to celebrate American history and culture in the name of defense.</p>
+<p>Prominent Surreal artists are Frida Kahlo, Claude Cahun, Man Ray, Giorgio de Chirico and Mary Leonora Carrington.
+</p>
+</section>
+</article>
+
+<h3>Abstract Expressionism (1940s–1950s)
+</h3>
+<article>
+<section>
+<p>
+Abstract expressionism is the term applied to new forms of abstract art developed by American painters such as Jackson Pollock, Mark Rothko and Willem de Kooning in the 1940s and 1950s. It is often characterised by gestural brush-strokes or mark-making, and the impression of spontaneity.
+</p>
+<p>
+There are two different types of abstract expressionist art; action painting and colour field painting. Action painters would 'attack' their canvases with expressive brush strokes, while colour field painters choose to fill their canvases with large areas of one colour.
+</p>
+<p>
+
+</p>
+</section>
+</article>
+
+<h3>Pop Art (1950s–1960s)
+</h3>
+<article>
+<section>
+<p></p>
+<p></p>
+<p></p>
+</section>
+</article>
+
+<h3>Minimalism (1960s–1970s)
+</h3>
+<article>
+<section>
+<p></p>
+<p></p>
+<p></p>
+</section>
+</article>
+
+<h3>Conceptual Art (1960s–1970s)
+</h3>
+<article>
+<section>
+<p></p>
+<p></p>
+<p></p>
+</section>
+</article>
+
+<h3>Contemporary Art (1970–present)
+</h3>
+<article>
+<section>
+<p></p>
+<p></p>
+<p></p>
+</section>
+</article>
+
+<!--
+<h3></h3>
+<article>
+<section>
+<p></p>
+</section>
+</article>-->
+
+</main>
+<footer>
+
+</footer>
+<!--above are the semantic elements-->
+
+<!--below are the need elemeents to close out the code tooo-->
+</body>
+</html>
+-->

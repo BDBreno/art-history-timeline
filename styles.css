@@ -1,0 +1,204 @@
+    
+body{
+  background-image: linear-gradient(to right, #99ccff , #e6b3ff, #ecc6d9, #e6ffff,  #f2f2f2);
+  margin: 10%;
+  text-align: justify;
+  font-size: 16px;
+}
+.timenav {
+width: 17%;
+font-style: italic;
+border-radius: 15px;
+}
+h1{
+  text-align: center;
+}
+.centertext{
+  text-align: center;
+}
+a {
+  text-decoration: none;
+}
+td, th {
+  border: 1px solid #ddd;
+  padding: 8px;
+}
+
+tr {
+background-color: #ff4da6;
+font-style: italic;
+}
+
+tr:nth-child(even){background-color: #ffcc66;
+}
+
+tr:hover {background-color: #99ffdd;}
+
+th {
+  text-align: left;
+  background-color: #99bbff;
+  color: white;
+}
+section{
+  background-color: #ff0000;
+  text-align: center;
+  color:  #e6ffff;
+  border: 3px solid green;
+}
+nav {
+  	font-family: 'Times New Roman', serif;
+	font-size: 1.25em;
+	font-weight: bold;
+	text-align: center;
+	margin-top: 1.5em;
+}
+ul {  
+  list-style-type: none;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 0;
+  overflow: hidden;
+  text-align: center;
+}
+li a {
+  display: block;
+  padding: 8px;
+  background-color: #dddddd;
+  border-radius: 30px;
+}
+nav li {
+  display: inline-block;
+
+	border-radius: 15px;
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: auto;
+}
+p {
+  font-size: 20px;
+  padding: 5px;
+/*  margin-right: 20px;*/
+}
+
+div {
+
+}
+
+figure {
+  border: 1px #cccccc solid;
+  padding: 4px;
+  margin: auto;
+  float: right;
+}
+
+figcaption {
+  background-color: black;
+  color: white;
+  font-style: italic;
+  padding: 2px;
+  text-align: center;
+  border-radius: 15px;
+}
+
+.art {
+height: 30%;
+width:  40%;
+}
+
+.diy {
+  border-radius: 15px;
+}
+.figclass {
+background-image: linear-gradient( #f2f2f2,  #999999);
+height: 30%;
+width:  40%;
+border-radius: 15px;
+}
+
+/*add mobile media query view size*/
+@media only screen and (max-width: 480px) {
+body{
+  background-image: linear-gradient(70deg, #4dc3ff, yellow);
+  font-size: 10px;
+}
+.artt{
+display: none;
+height: 10%;
+width: 20%;
+}
+/*take out the underline for all hyperlinks, make text blue*/
+a:link {
+	color: purple;
+	text-decoration: none;
+}
+/*take out the underline for all listed hyperlinks, make text white*/
+nav a:link {
+	color: #aa80ff;
+	text-decoration: none;
+}
+/*change hyper text color when hovering mouse*/
+nav a:hover {
+	color: green;
+	text-decoration: none;
+}
+
+figure {
+display: none;
+}
+br {
+display: none;
+}
+}
+
+/*add mobile media query view size*/
+@media only screen and (min-width: 481px) and (max-width: 768px){
+body{
+  background-image: linear-gradient(125deg, purple, #e6b3ff, #ecc6d9, #e6ffff,  #f2f2f2,  #d580ff);
+  margin: 10%;
+  text-align: justify;
+  font-size: 16px;
+}
+.artt{
+display: none;
+height: 10%;
+width: 20%;
+}
+/* unvisited link */
+a:link {
+  color: #FF0000;
+}
+
+/* visited link */
+a:visited {
+  color: #80b3ff;
+}
+
+a:hover {
+  color: #FF00FF;
+}
+
+/* selected link */
+a:active {
+  color:  #00cc7a;
+}
+
+}
+
+/*add mobile media query view size*/
+@media only screen and (min-width: 769px) {
+body{
+  font-size: 18px;
+}
+/* mouse over link */
+a:hover {
+  color: #FF00FF;
+  font-size:26px;
+}
+a:active {
+  color:  #00cc7a;
+}
+}
